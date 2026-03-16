@@ -25,6 +25,7 @@ O script realiza o ciclo completo de um profissional de dados (ETL):
 
 O projeto permitiu identificar que a **Editora C** (Gênero Autoajuda) possui o maior volume de vendas, enquanto o gênero **Ficção** apresenta a melhor margem bruta por unidade.
 
+![Gráfico de Performance](grafico.png)
 
 
 ## 📂 Como Executar o Projeto
